@@ -1,6 +1,6 @@
 [submodule "api"]
 	path = api
-	url = ./api
+	url = https://github.com/hytools/api
 [submodule "admin"]
 	path = admin
-	url = ./admin
+	url = https://github.com/hytools/admin
