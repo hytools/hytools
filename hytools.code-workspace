@@ -12,7 +12,6 @@
 	},
 	"extensions": {
 		"recommendations": [
-			"elagil.pre-commit-helper",
 			"ms-python.vscode-pylance",
 			"ms-python.debugpy",
 			"github.vscode-github-actions",
